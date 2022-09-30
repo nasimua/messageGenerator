@@ -7,3 +7,6 @@ For this project, you will build a message generator program. Every time a user 
 + Use Git version control
 + Use command line
 + Develop locally on your computer
+
+
+Use node.js to run this code and produce random messages/quotes.
